@@ -1,0 +1,51 @@
+body{
+    background-color: aliceblue;
+}
+
+.headline{
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+.img1{
+    height: 30px;
+    width: 30px;
+    border: 3px solid blue;
+    border-radius:100% ;
+    margin-top: 0px;
+}
+
+.profile-name{
+    margin-top: -40px;
+    margin-left: 40px;
+}
+
+small{
+    font-size: 10px;
+    display: block;
+    margin-top: -20px;
+    margin-left: 38px;
+    color:rgb(12, 8, 2)
+}
+
+.post{
+    background-color: rgba(186, 186, 247, 0.445);
+    border: 1px solid rgb(241, 241, 250);
+    border-radius: 20px;
+    width: auto;
+    margin: 5px;
+    padding: 20px;
+}
+
+button{
+    background-color: cyan;
+    border: 0.05px solid rgb(31, 185, 185) ;
+    border-radius: 7px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 2px;
+    margin: 2px;
+}
+
+
